@@ -1,0 +1,4 @@
+export default  {
+	INIT_GPS_WATCHER : "INIT_GPS_WATCHER",
+	INIT_ROUTES : "INIT_ROUTES",
+}
